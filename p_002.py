@@ -1,5 +1,5 @@
 """
-p_002.py | Claus Pagano | Last update: 2021-8-9
+p_002.py | Claus Pagano | Last update: 2022-9-4
 
 Algorithms and Data Structures practice with Python
 
